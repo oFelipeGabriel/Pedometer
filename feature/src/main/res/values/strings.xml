@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cX">0.0</string>
+    <string name="cY">0.0</string>
+    <string name="cZ">0.0</string>
+    <string name="mX">0.0</string>
+    <string name="mY">0.0</string>
+    <string name="mZ">0.0</string>
+
+</resources>
